@@ -13,6 +13,10 @@
 ---
 ![Codewars](https://github.r2v.ch/codewars?user=Artemius10111)
 
+# 🥷 Leetcode Stats:
+---
+[![Leetcode Stats](https://leetcard.jacoblin.cool/artemseregin679)](https://leetcode.com/artemseregin679)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Artemius10111&icon=0&color=0)](https://visitcount.itsvg.in)
 
