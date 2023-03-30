@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on A4 MVP <br>🌱 I’m currently learning Apollo<br>🎸 Fun fact: I'm a guitar player
+🔭 I’m currently working in A4 <br>🌱 I’m currently learning Apollo<br>🎸 Fun fact: I'm a guitar player
 
 
 # 💻 Tech Stack:
