@@ -19,5 +19,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Artemius10111&icon=0&color=0)](https://visitcount.itsvg.in)
 
-and i love atmoshepere of snowy weather and mountains 😍 🥰 😘
 ![37379f80edd03a27a7762b1fab38b1e8](https://user-images.githubusercontent.com/88683493/230740758-3a5113bc-2dab-4612-8ec7-2facd3b1aa30.gif)
